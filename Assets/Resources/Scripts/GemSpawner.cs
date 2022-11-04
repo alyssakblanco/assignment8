@@ -20,7 +20,7 @@ public class GemSpawner : MonoBehaviour {
 
 	IEnumerator SpawnGems() {
 		while (true) {
-			Debug.Log("here");
+			// Debug.Log("here");
 
 			// number of gems we could spawn vertically
 			int gemsThisRow = 1;
